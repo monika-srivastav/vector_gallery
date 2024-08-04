@@ -1,1 +1,1 @@
-# a coffee shop webiste using HTML,CSS,JS
+# A Coffee Shop Webiste Using HTML,CSS,JS
